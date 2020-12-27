@@ -1,8 +1,4 @@
 
-h1, h2, h3, p {
-  margin: 0;
-  padding: 0;
-}
 
 .page {
   min-width: 1100px;
@@ -15,6 +11,10 @@ h1, h2, h3, p {
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
 
 
 
