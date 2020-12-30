@@ -162,7 +162,7 @@
   margin-bottom: 0;
 }
 
-.two-columns-span-accent {
+.two-columns__span-accent {
   font-weight: bold;
 }
 
@@ -234,6 +234,7 @@
   line-height: 1.2;
   font-weight: normal;
   margin-top: 20px;
+  margin-bottom: 0;
 }
 
 
@@ -414,11 +415,11 @@
   align-items: flex-start;
 }
 
-/* .content_info {
+/* .footer__column_content_info {
   align-items: flex-end;
 }
 
-.content_social {
+.footer__column_content_social {
   align-items: flex-start;
 } */
 
@@ -431,5 +432,4 @@
 .footer__column-link {
   text-decoration: none;
   color: white;
-  margin-top: 10px;
 }
