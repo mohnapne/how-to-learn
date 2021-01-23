@@ -1,0 +1,13 @@
+.two-columns {
+    width: 80%;
+  
+  /* очень странно отображается блок в мобильной версии. 
+  я бы сменил значение width на 90% например или добавил бы отступа справа, чтобы не слипался текст */
+  
+    margin: 100px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  
