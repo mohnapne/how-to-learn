@@ -3,5 +3,12 @@
     font-size: 30px;
     line-height: 42px;
     font-weight: normal;
+    color: #2f80ed;
+    text-decoration: none;
 
 }
+
+.feynman__link:hover {
+    opacity: 50%;
+    transition: all 1s ease-out;
+  }

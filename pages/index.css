@@ -62,6 +62,15 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__logo/__logo_type/resources__logo_type_arzamas.css);
+@import url(../blocks/resources/__logo/__logo_type/resources__logo_type_n1.css);
+@import url(../blocks/resources/__logo/__logo_type/resources__logo_type_polka.css);
+@import url(../blocks/resources/__logo/__logo_type/resources__logo_type_strelka.css);
+
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
