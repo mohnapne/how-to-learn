@@ -5,3 +5,8 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.resources__logo:hover {
+    opacity: 50%;
+    transition: all 1s ease-out;
+}
