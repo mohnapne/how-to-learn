@@ -3,9 +3,9 @@
     z-index: 1;
     position: relative;
     text-decoration: none;
+    transition: opacity 1s ease-out;
   }
 
   .header__link:hover {
     opacity: 50%;
-    transition: all 1s ease-out;
   }
